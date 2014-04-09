@@ -15,3 +15,5 @@ The app takes all data fields and saves them to an excel file with timestamp, an
 Copy the doc file in the Desktop folder to your desktop.  
 
 Compile and enjoy.
+
+![image](https://cloud.githubusercontent.com/assets/684524/2660248/8e9c4054-c01d-11e3-9959-0b2e98115579.png)
